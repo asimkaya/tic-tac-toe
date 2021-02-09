@@ -5,7 +5,7 @@ import { AppComponent } from './app.component';
 import { SquareComponent } from './square/square.component';
 import { BoardComponent } from './board/board.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import { NbThemeModule, NbLayoutModule, NbButtonModule } from '@nebular/theme';
+import { NbThemeModule, NbLayoutModule, NbButtonModule, NbAlertModule } from '@nebular/theme';
 import { NbEvaIconsModule } from '@nebular/eva-icons';
 import { AppRoutingModule } from './app-routing.module';
 
@@ -22,6 +22,7 @@ import { AppRoutingModule } from './app-routing.module';
     NbLayoutModule,
     NbEvaIconsModule,
     NbButtonModule,
+    NbAlertModule,
     AppRoutingModule
   ],
   providers: [],
