@@ -1,6 +1,8 @@
 # TicTacToe
 BASIC TIC TAC TOE 
 
+[Project Demo](https://asimkaya.github.io/tic-tac-toe/)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.6.
 
 ## Development server
